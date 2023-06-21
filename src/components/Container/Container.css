@@ -1,0 +1,6 @@
+.main-container{
+    padding: var (--padding-primary);
+    /* background-color: var(--color-dark); */
+    box-shadow: 2px solid darkgoldenrod;
+    
+}

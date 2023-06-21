@@ -1,0 +1,14 @@
+.section-wrapper{
+
+    margin :calc( var(--margin-primary)*1);
+    /* height: 100vh; */
+    background-color: var(--color-dark);
+    border-radius: calc(var(--border-radius-primary)/2);
+    padding: var(--margin-primary);
+}
+.card-wrapper{
+    background-color: var(--color-primary);
+    border-radius: calc(var(--border-radius-primary)/2);
+    padding : calc(var(--padding-primary)/2);
+    margin: 010px;
+}
