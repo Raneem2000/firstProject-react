@@ -1,10 +1,9 @@
 import './Profile.css'
-import {Hero , MostPopular ,Gaming} from '../../sections/index'; 
+import {  MostPopular } from '../../sections/index'; 
 const Profile = () => {
     return (
     <>
         <MostPopular/>
-        <Gaming/>
     </>
     );
 }

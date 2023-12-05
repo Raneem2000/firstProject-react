@@ -5,7 +5,7 @@ const Home = () => {
     <>
         <Hero />
         <MostPopular/>
-        <Gaming/>
+        {/* <Gaming/> */}
     </>
     );
 }
