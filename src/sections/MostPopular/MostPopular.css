@@ -1,6 +1,7 @@
-.most-popular-items{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    /* margin: 10px; */
+.most-popular-items {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 1rem auto;
+  justify-content: center;
 }

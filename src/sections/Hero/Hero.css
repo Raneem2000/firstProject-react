@@ -15,7 +15,8 @@
     text-transform: uppercase;
     font-weight: 800;
     /* margin-bottom: 30px; */
-    max-width: 40%;
+    max-width: 50%;
+    margin-bottom: 1.5rem;
 }
 .hero-title em {
     font-style: normal;
@@ -26,4 +27,14 @@
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 1rem;
+}
+
+@media (max-width: 767px){
+    .hero-title {
+        font-weight: 0;
+        font-size: 2rem;
+    }
+    .hero-text{
+        margin-left: -1rem;
+    }
 }
